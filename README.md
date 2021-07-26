@@ -1,19 +1,10 @@
 # statement-hw
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+วิธีการ run
+1.clone repository นี้
+2.ใช้คำสั่ง npm install
+3.ใช้คำสั่ง npm run serve
+4.เลือกประเภทของข้อมูลที่จะกรอก
+5.กรอกรายการข้อมูล
+6.กรอกรายละเอียดจำนวนเงิน
+7.เลือกวันที่ๆทำรายการ
